@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eleyelecathedral/static/css/main.4d84854e.chunk.css",
+    "main.css": "/eleyelecathedral/static/css/main.ccba2f95.chunk.css",
     "main.js": "/eleyelecathedral/static/js/main.48860515.chunk.js",
     "main.js.map": "/eleyelecathedral/static/js/main.48860515.chunk.js.map",
     "runtime-main.js": "/eleyelecathedral/static/js/runtime-main.fc2810ac.js",
@@ -8,7 +8,7 @@
     "static/js/2.507b3282.chunk.js": "/eleyelecathedral/static/js/2.507b3282.chunk.js",
     "static/js/2.507b3282.chunk.js.map": "/eleyelecathedral/static/js/2.507b3282.chunk.js.map",
     "index.html": "/eleyelecathedral/index.html",
-    "static/css/main.4d84854e.chunk.css.map": "/eleyelecathedral/static/css/main.4d84854e.chunk.css.map",
+    "static/css/main.ccba2f95.chunk.css.map": "/eleyelecathedral/static/css/main.ccba2f95.chunk.css.map",
     "static/js/2.507b3282.chunk.js.LICENSE.txt": "/eleyelecathedral/static/js/2.507b3282.chunk.js.LICENSE.txt",
     "static/media/51.9864c1c5.png": "/eleyelecathedral/static/media/51.9864c1c5.png",
     "static/media/bible.10fda5b2.svg": "/eleyelecathedral/static/media/bible.10fda5b2.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc2810ac.js",
     "static/js/2.507b3282.chunk.js",
-    "static/css/main.4d84854e.chunk.css",
+    "static/css/main.ccba2f95.chunk.css",
     "static/js/main.48860515.chunk.js"
   ]
 }
